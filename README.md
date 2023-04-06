@@ -1,4 +1,3 @@
 
-
-*This is a Italic Text*  
-_Yeah This Too_
+**This is a Bold Text**  
+__Yeah This Too__
