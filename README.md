@@ -1,4 +1,4 @@
 
 
-*This is Italics Text*  
-_This is Italics Text_
+*This is a Italic Text*  
+_Yeah This Too_
