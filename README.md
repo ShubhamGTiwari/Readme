@@ -1,3 +1,3 @@
 
-**This is a Bold Text**  
-__Yeah This Too__
+***This is a Bold Text***  
+___Yeah This Too___
