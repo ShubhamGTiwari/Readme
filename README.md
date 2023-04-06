@@ -1,3 +1,2 @@
 
-***This is a Bold Text***  
-___Yeah This Too___
+[This is the Link to medium](https://www.medium.com).
